@@ -1,4 +1,4 @@
-# WeatherApp
+# SkyCast
 
 This is a weather app created using Python, Tkinter, Geopy.geocoders, Timezonefinder, Requests, and Pytz. It allows the user to enter a location and get the current weather conditions for that location.
 
